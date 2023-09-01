@@ -1,0 +1,26 @@
+{
+  "name": "freecurrencyrate",
+  "version": "1.0.0",
+  "description": "Introducing our NPM package for currency conversion - free to use forever! Get accurate and up-to-date currency exchange rates without any usage limits or hidden costs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deryl-sagala/freecurrencyrate.git"
+  },
+  "keywords": [
+    "currency",
+    "currencyexchange",
+    "exchange",
+    "exchange",
+    "rate"
+  ],
+  "author": "Deryl Sagala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deryl-sagala/freecurrencyrate/issues"
+  },
+  "homepage": "https://github.com/deryl-sagala/freecurrencyrate#readme"
+}
